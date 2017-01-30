@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<root>
+    <item>
+        <name>Control+k to Arrow Up</name>
+        <identifier>private.Control_KToUp</identifier>
+        <autogen>
+            --KeyToKey--
+            KeyCode::K, ModifierFlag::CONTROL_L,
+            KeyCode::CURSOR_UP
+        </autogen>
+    </item>
+     <item>
+        <name>Control+j to Arrow Down</name>
+        <identifier>private.Control_JToDown</identifier>
+        <autogen>
+            --KeyToKey--
+            KeyCode::J, ModifierFlag::CONTROL_L,
+            KeyCode::CURSOR_DOWN
+        </autogen>
+    </item>
+      <item>
+        <name>Control+h to Arrow Left</name>
+        <identifier>private.Control_HToLeft</identifier>
+        <autogen>
+            --KeyToKey--
+            KeyCode::H, ModifierFlag::CONTROL_L,
+            KeyCode::CURSOR_LEFT
+        </autogen>
+    </item>
+    <item>
+        <name>Control+l  to Arrow Right</name>
+        <identifier>private.Control_LToRight</identifier>
+        <autogen>
+            --KeyToKey--
+            KeyCode::L, ModifierFlag::CONTROL_L,
+            KeyCode::CURSOR_RIGHT
+        </autogen>
+    </item>
+
+</root>
