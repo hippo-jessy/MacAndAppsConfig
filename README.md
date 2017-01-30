@@ -18,7 +18,7 @@ OS: Mac OS X EI Capitan(version 10.11.6)
 
   - **Seil:**
 
-    I use this app only for its functionality to remap Caps Lock to esc. It's pretty much helpful when editing in vim mode. Although most remapping actions can be performed by Karabiner, it can do nothing with this special key(Karabiner is currently working to support MacOS Sierra and trying to fully integrate Seil, you can [check it here]([https://github.com/tekezo/Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements))).
+    I use this app only for its functionality to remap Caps Lock to esc. It's pretty much helpful when editing in vim mode. Although most remapping actions can be performed by Karabiner, it can do nothing with this special key(Karabiner is currently working to support MacOS Sierra and trying to fully integrate Seil, you can [check it here](https://github.com/tekezo/Karabiner-Elements)).
 
 - **iStat Menus**
 
@@ -44,7 +44,7 @@ OS: Mac OS X EI Capitan(version 10.11.6)
 
      ![Personal Configuration for Mac and Apps_1](./img/Personal Configuration for Mac and Apps_1.png)
 
-- **Remap Ctrl + H/J/K/L to Arrow keys(left/down/up/right) **considering anti human location of Arrow keys. Take good use of **Karabiner** to achieve this task as I mentioned before. 
+- **Remap Ctrl + H/J/K/L to Arrow keys(left/down/up/right)** considering anti human location of Arrow keys. Take good use of **Karabiner** to achieve this task as I mentioned before. 
 
 - **Remap caps lock to esc** using **Seil** to speed up vim mode editing.
 
